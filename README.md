@@ -1,7 +1,7 @@
 python_skeleton
 ===============
 
-skeleton for python projects
+skeleton for python projects from http://learnpythonthehardway.org/book/ex46.html
 
 dependencies
 
